@@ -1,6 +1,6 @@
-# Nodefuck
+# node-bf
 
-Nodefuck is an lightweight interpreter of the Brainfuck programming language, written in JavaScript
+Node-BF is an lightweight interpreter of the Brainfuck programming language, written in JavaScript
 
 The plain version of Brainfuck in the library weighs only 246 bytes
 
@@ -15,7 +15,7 @@ Brainfuck.random(/* code */, /* options */)
 
 Command line
 ```
-nf <type> <path to file>
+bf <type> <path to file>
 ```
 
 ## Types

@@ -2,7 +2,7 @@
   "dependencies": {
     "readline-sync": "^1.4.10"
   },
-  "name": "nodefuck",
+  "name": "node-bf",
   "version": "1.0.0",
   "description": "Brainfuck programming language interpreter for Node.js",
   "main": "index.js",
@@ -21,11 +21,12 @@
     "language",
     "programming",
     "esoteric",
-    "nodefuck",
+    "bf-node",
+    "node-bf",
     "node"
   ],
   "bin": {
-    "nf": "./bin/nf"
+    "bf": "./bin/bf"
   },
   "author": "HyperKNF <admin@hyperknf.com>",
   "license": "ISC"
