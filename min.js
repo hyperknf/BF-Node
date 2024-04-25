@@ -1,0 +1,1 @@
+exports.b=(e,a,s,g,p,i)=>{var C,L=[],h,r=a(3e4),c=a(1);for(C=0;C<e.length;)(h=e[C++])==">"?c[0]++:h=="<"?c[0]--:h=="+"?r[c[0]]++:h=="-"?r[c[0]]--:h=="."?p(s(r[c[0]])):h==","?r[c[0]]=g(i()):h=="["?L.unshift(C):h=="]"&&r[c[0]]?C=L[0]??C:L.shift()}

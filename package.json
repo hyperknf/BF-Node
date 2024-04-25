@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "name": "bf.js",
+  "version": "1.0.0",
+  "description": "Brainfuck programming language interpreter for Node.js",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "bf",
+    "brainfuck",
+    "interpreter",
+    "language",
+    "programming",
+    "esoteric"
+  ],
+  "bin": {
+    "bf": "./bin/bf"
+  },
+  "author": "HyperKNF <admin@hyperknf.com>",
+  "license": "ISC"
+}
