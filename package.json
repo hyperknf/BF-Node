@@ -2,7 +2,7 @@
   "dependencies": {
     "readline-sync": "^1.4.10"
   },
-  "name": "bf.js",
+  "name": "nodefuck",
   "version": "1.0.0",
   "description": "Brainfuck programming language interpreter for Node.js",
   "main": "index.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HydroScript/HydroScript"
+    "url": "git+https://github.com/hyperknf/Nodefuck"
   },
   "keywords": [
     "bf",
@@ -20,10 +20,12 @@
     "interpreter",
     "language",
     "programming",
-    "esoteric"
+    "esoteric",
+    "nodefuck",
+    "node"
   ],
   "bin": {
-    "bf": "./bin/bf"
+    "nf": "./bin/nf"
   },
   "author": "HyperKNF <admin@hyperknf.com>",
   "license": "ISC"
