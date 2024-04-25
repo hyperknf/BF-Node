@@ -10,6 +10,10 @@
   "scripts": {
     "test": "node test"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HydroScript/HydroScript"
+  },
   "keywords": [
     "bf",
     "brainfuck",
