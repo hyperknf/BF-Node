@@ -1,6 +1,6 @@
 # bf-node
 
-BF-Node is an lightweight interpreter of the Brainfuck programming language, written in JavaScript
+BF-Node is a lightweight interpreter of the Brainfuck programming language, written in JavaScript
 
 The plain version of Brainfuck in the library weighs only 246 bytes
 

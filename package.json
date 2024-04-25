@@ -3,7 +3,7 @@
     "readline-sync": "^1.4.10"
   },
   "name": "bf-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Brainfuck programming language interpreter for Node.js",
   "main": "index.js",
   "devDependencies": {},
