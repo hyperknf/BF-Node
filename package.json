@@ -2,7 +2,7 @@
   "dependencies": {
     "readline-sync": "^1.4.10"
   },
-  "name": "node-bf",
+  "name": "bf-node",
   "version": "1.0.0",
   "description": "Brainfuck programming language interpreter for Node.js",
   "main": "index.js",
@@ -23,7 +23,8 @@
     "esoteric",
     "bf-node",
     "node-bf",
-    "node"
+    "node",
+    "lightweight"
   ],
   "bin": {
     "bf": "./bin/bf"
