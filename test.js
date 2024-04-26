@@ -13,6 +13,6 @@ const o = [
     })
 ]
 bf(`
-${"-".repeat(1e8)}.
+<,>>.
 `, ...o)
 console.log(`\nTime: ${Date.now() - time}ms`)
